@@ -1,0 +1,16 @@
+<h1>Index</h1>
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+
+<form action="{% url 'mgm_scrapper:mgm-data' %}" method="get">
+	{% csrf_token %}
+	<input type="submit" value="See all entries" />
+</form><br>
+<form action="{% url 'mgm_scrapper:day-query' %}" method="post">
+	{% csrf_token %}
+	Room rate record for one particular day:<br>
+	Year: <input type="textbox" name="year"><br>
+	Month: <input type="textbox" name="month"><br>
+	Day: <input type="textbox" name="day"><br>
+	<input type="submit" value="Check History" />
+</form>

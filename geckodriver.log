@@ -1,0 +1,146 @@
+1524093360822	geckodriver	INFO	geckodriver 0.18.0
+1524093360825	geckodriver	INFO	Listening on 127.0.0.1:48206
+1524093361948	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524093362556	Marionette	INFO	Enabled via --marionette
+
+(firefox:31787): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524093364380	Marionette	INFO	Listening on port 39229
+1524093364462	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 31838, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524093487428	geckodriver	INFO	geckodriver 0.18.0
+1524093487431	geckodriver	INFO	Listening on 127.0.0.1:60785
+1524093488558	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524093489168	Marionette	INFO	Enabled via --marionette
+
+(firefox:31987): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524093490844	Marionette	INFO	Listening on port 40423
+1524093490886	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32076, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524234072188	geckodriver	INFO	geckodriver 0.18.0
+1524234072198	geckodriver	INFO	Listening on 127.0.0.1:54818
+1524234073325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234074628	Marionette	INFO	Enabled via --marionette
+
+(firefox:2431): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524234076680	Marionette	INFO	Listening on port 33374
+1524234076738	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2519, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2481, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524234238236	geckodriver	INFO	geckodriver 0.18.0
+1524234238239	geckodriver	INFO	Listening on 127.0.0.1:57220
+1524234239367	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234239942	Marionette	INFO	Enabled via --marionette
+
+(firefox:2624): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524234241572	Marionette	INFO	Listening on port 39030
+1524234241590	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2712, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524234449079	geckodriver	INFO	geckodriver 0.18.0
+1524234449082	geckodriver	INFO	Listening on 127.0.0.1:45359
+1524234450226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234450824	Marionette	INFO	Enabled via --marionette
+
+(firefox:2767): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524234452452	Marionette	INFO	Listening on port 39802
+1524234452544	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2856, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524234508353	geckodriver	INFO	geckodriver 0.18.0
+1524234508356	geckodriver	INFO	Listening on 127.0.0.1:51181
+1524234509482	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234510018	Marionette	INFO	Enabled via --marionette
+
+(firefox:2909): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524234511650	Marionette	INFO	Listening on port 36258
+1524234511698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524234517204	geckodriver	INFO	geckodriver 0.18.0
+1524234517207	geckodriver	INFO	Listening on 127.0.0.1:53190
+1524234518535	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234519687	geckodriver	INFO	geckodriver 0.18.0
+1524234519708	geckodriver	INFO	Listening on 127.0.0.1:40995
+1524234519942	Marionette	INFO	Enabled via --marionette
+
+(firefox:3042): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524234521090	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234523346	Marionette	INFO	Enabled via --marionette
+1524234524394	Marionette	INFO	Listening on port 41560
+1524234524494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524234527405	geckodriver	INFO	geckodriver 0.18.0
+1524234527434	geckodriver	INFO	Listening on 127.0.0.1:51807
+1524234529871	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524234548568	geckodriver	INFO	geckodriver 0.18.0
+1524234549052	geckodriver	INFO	Listening on 127.0.0.1:56703
+1524235029995	geckodriver	INFO	geckodriver 0.18.0
+1524235030004	geckodriver	INFO	Listening on 127.0.0.1:51047
+1524235031142	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524235032140	Marionette	INFO	Enabled via --marionette
+
+(firefox:3291): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524235034112	Marionette	INFO	Listening on port 36798
+1524235034168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524235048362	geckodriver	INFO	geckodriver 0.18.0
+1524235048365	geckodriver	INFO	Listening on 127.0.0.1:35708
+1524235049734	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524235051126	Marionette	INFO	Enabled via --marionette
+
+(firefox:3434): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+[Child 3341, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524235055592	Marionette	INFO	Listening on port 40042
+1524235055680	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3529, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x250003,name=PClientSource::Msg_Teardown) Channel error: cannot send/recv
+
+1524235075949	geckodriver	INFO	geckodriver 0.18.0
+1524235075952	geckodriver	INFO	Listening on 127.0.0.1:42377
+1524235077075	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524235077616	Marionette	INFO	Enabled via --marionette
+
+(firefox:3575): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524235079252	Marionette	INFO	Listening on port 35161
+1524235079286	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3663, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524235137869	geckodriver	INFO	geckodriver 0.18.0
+1524235137872	geckodriver	INFO	Listening on 127.0.0.1:43833
+1524235138998	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524235139544	Marionette	INFO	Enabled via --marionette
+
+(firefox:3708): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524235141168	Marionette	INFO	Listening on port 43476
+1524235141218	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3803, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524595244610	geckodriver	INFO	geckodriver 0.18.0
+1524595244621	geckodriver	INFO	Listening on 127.0.0.1:45693
+1524595245740	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524595247132	Marionette	INFO	Enabled via --marionette
+
+(firefox:11397): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524595249244	Marionette	INFO	Listening on port 46173
+1524595249278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524602492252	geckodriver	INFO	geckodriver 0.18.0
+1524602492255	geckodriver	INFO	Listening on 127.0.0.1:42825
+1524602493390	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524602493942	Marionette	INFO	Enabled via --marionette
+
+(firefox:12176): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524602495552	Marionette	INFO	Listening on port 43506
+1524602495604	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12264, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12226, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524602594700	geckodriver	INFO	geckodriver 0.18.0
+1524602594703	geckodriver	INFO	Listening on 127.0.0.1:50459
+1524602595830	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524602596374	Marionette	INFO	Enabled via --marionette
+
+(firefox:12353): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Failed to execute child process "dbus-launch" (No such file or directory)
+1524602597978	Marionette	INFO	Listening on port 44082
+1524602598056	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12441, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-BgGWsI/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

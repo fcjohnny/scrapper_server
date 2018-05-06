@@ -1,0 +1,18 @@
+<h1>Price History</h1>
+<ul>
+    <form action="{% url 'mgm_scrapper:save-data' %}" method="post">
+    {% csrf_token %}
+    {% if day %}
+    <input type="hidden" name="year" value={{year}} />
+    <input type="hidden" name="month" value={{month}} />
+    <input type="hidden" name="day" value={{day}} />
+    {% endif %}
+    <input type="submit" value="Save" />
+    </form>
+    <li>Quotation Time - Date - Price - availability</li>
+{% for quote in object_list %}
+<li>{{ quote.quotation_date }} - {{ quote.room_date|date }} - {{ quote.currency }}{{ quote.quoted_price}} - {% if quote.availability == True %}available{% else %}not available{% endif %}</li>
+{% empty %}
+    <li>No quote yet.</li>
+{% endfor %}
+</ul>
